@@ -99,7 +99,7 @@
 
 <div align="center">
   <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=udaykiran2102&hide=HTML&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&background=0D1117&title_color=F85D7F&icon_color=F8D866" alt="languages" />
-  <img width="325" src="https://github-readme-stats.vercel.app/api/pin/?username=udaykiran2102&repo=your-best-repo&theme=react&border_color=7F3FBF&background=0D1117&title_color=F85D7F&icon_color=F8D866" alt="repository" />
+ 
 </div>
 
 ## 💭 Random Developer Quote:
