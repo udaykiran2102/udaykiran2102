@@ -1,4 +1,8 @@
+<div align="center">
+  
 # Hi there! 👋 I'm Uday Kiran
+
+</div>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI%2FML+Enthusiast;Computer+Science+Student;Always+Learning+New+Tech!" alt="Typing SVG" />
@@ -104,12 +108,6 @@
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
-</div>
-
-## 🐍 Watch my contributions get eaten by a snake!
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/udaykiran2102/udaykiran2102/output/snake.svg" alt="Snake animation" />
 </div>
 
 ---
