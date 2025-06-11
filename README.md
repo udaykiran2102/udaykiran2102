@@ -91,10 +91,6 @@
 ## 📊 GitHub Analytics:
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=udaykiran2102&custom_title=Uday%20Kiran's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true" alt="GitHub Activity Graph" />
-</div>
-
-<div align="center">
   <img width="390" src="https://github-readme-stats.vercel.app/api?username=udaykiran2102&show_icons=true&theme=react&border_color=7F3FBF&background=0D1117&title_color=F85D7F&icon_color=F8D866" alt="stats" />
   <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=udaykiran2102&theme=react&border=7F3FBF&background=0D1117" alt="streak" />
 </div>
@@ -102,12 +98,6 @@
 <div align="center">
   <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=udaykiran2102&hide=HTML&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&background=0D1117&title_color=F85D7F&icon_color=F8D866" alt="languages" />
   <img width="325" src="https://github-readme-stats.vercel.app/api/pin/?username=udaykiran2102&repo=your-best-repo&theme=react&border_color=7F3FBF&background=0D1117&title_color=F85D7F&icon_color=F8D866" alt="repository" />
-</div>
-
-## 🏆 GitHub Trophies:
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=udaykiran2102&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="trophies" />
 </div>
 
 ## 💭 Random Developer Quote:
