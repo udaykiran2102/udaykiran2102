@@ -16,12 +16,12 @@
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-🎓 **B.Tech in Computer Science & Engineering** student at ACE Engineering College (3rd year)  
-💻 Passionate about **Full Stack Development** with a focus on modern web technologies  
-🤖 Exploring **AI/ML** and its applications in web development  
-🚀 Always learning new technologies and methodologies  
-🔍 Actively seeking **internship** and **collaboration** opportunities  
-🌟 Love turning ideas into reality through code  
+### 🎓 **B.Tech in Computer Science & Engineering** student at ACE Engineering College (3rd year)  
+### 💻 Passionate about **Full Stack Development** with a focus on modern web technologies  
+### 🤖 Exploring **AI/ML** and its applications in web development  
+### 🚀 Always learning new technologies and methodologies  
+### 🔍 Actively seeking **internship** and **collaboration** opportunities  
+### 🌟 Love turning ideas into reality through code  
 
 <br clear="both">
 
@@ -33,10 +33,12 @@
 
 <div align="center">
   
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nuday1377@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/udaykiran2102)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/udaykiran2102)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://your-portfolio-link.com)
+
+**Let's Connect:**
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nuday1377@gmail.com)
 
 </div>
 
